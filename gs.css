@@ -1,0 +1,23 @@
+.speech {
+    color: black;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p.direction {
+    color: black;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+p.direction:hover {
+    background-color:cadetblue;
+    color:darkblue;
+}
+.X {
+    color:blueviolet
+
+}
+.Y {
+    color: aquamarine;
+
+}
