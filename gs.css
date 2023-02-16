@@ -19,5 +19,15 @@ p.direction:hover {
 }
 .Y {
     color: aquamarine;
-
 }
+table, th, td {
+    border: 1px solid;
+    color:black
+    
+}
+th, td {
+    padding: 15px;
+    margin: 0px;
+    text-align: left;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
